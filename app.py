@@ -17,28 +17,8 @@ img = Image.open('./images/favicon.png')
 st.set_page_config(page_title='Movie Recommender Engine' , page_icon=img , layout="centered",initial_sidebar_state="expanded")
 
     
-#Designing the footer and MainMenu creating the skeleton of the website.
-hide_st_style = """
-            <style>
-            #MainMenu {visibility: hidden;}
-            footer {visibility: visible;}
-            footer:after{
-                background-color:#a873b0;
-                font-size:12px;
-                font-weight:5px;
-                height:30px;
-                margin:1rem;
-                padding:0.8rem;
-                content:'Copyright © 2022 : Pragya Bisherwal';
-                display: flex;
-                align-items:center;
-                justify-content:center;
-                color:white;
-            }
-            header {visibility: hidden;}
-            </style>
-            """
-st.markdown(hide_st_style, unsafe_allow_html=True)
+
+
 
 #Loading the animation of the streamlit lottie
 def load_lottieurl(url):
