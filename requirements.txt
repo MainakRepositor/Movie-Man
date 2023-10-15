@@ -1,0 +1,7 @@
+gunicorn
+streamlit==1.9.0
+streamlit-option-menu
+protobuf~=3.19.0
+streamlit_lottie
+requests
+
