@@ -107,7 +107,7 @@ if __name__ == '__main__':
     #Selection basis of recommendation.
 
     apps = ['*--Select--*', 'Movie based', 'Genres based']   
-    app_options = st.selectbox('Method Of Recommendation:', apps)
+    app_options = st.sidebar.selectbox('Method Of Recommendation:', apps)
 
 
     
