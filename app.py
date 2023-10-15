@@ -17,7 +17,6 @@ img = Image.open('./images/favicon.png')
 st.set_page_config(page_title='Movie Recommender Engine' , page_icon=img , layout="centered",initial_sidebar_state="expanded")
 
 
-st.markdown(hide_st_style, unsafe_allow_html=True)    
 
 
 
