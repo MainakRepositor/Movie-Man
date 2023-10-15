@@ -15,7 +15,7 @@ Movie recommendation systems usually predict what movies a user will like based 
 
  - [KNN Algorithm ](https://towardsdatascience.com/machine-learning-basics-with-the-k-nearest-neighbors-algorithm-6a6e71d01761)
 
-- [Awesome README](https://github.com/matiassingers/awesome-readme)
+- [Cosine Similarity](https://github.com/matiassingers/awesome-readme)
 
 ## Deployment
 
