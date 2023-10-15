@@ -157,6 +157,4 @@ if __name__ == '__main__':
                 st.write(" _Can Select Multiple Genres_ ")
                         
 
-    else:
-        st.write('Select option')
-
+    
