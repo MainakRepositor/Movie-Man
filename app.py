@@ -37,7 +37,7 @@ lottie_github =load_lottieurl("https://assets4.lottiefiles.com/packages/lf20_S6v
 
 
 st.sidebar.markdown(
-    f'<a href="https://sentiment-movie-man.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Real-Time AQI Measure</a>',
+    f'<a href="https://sentiment-movie-man.streamlit.app/" target="_blank" style="display: inline-block; padding: 12px 20px; background-color: #4CAF50; color: white; text-align: center; text-decoration: none; font-size: 16px; border-radius: 4px;">Movie Sentiment Analysis with BERT</a>',
     unsafe_allow_html=True
 )
     
