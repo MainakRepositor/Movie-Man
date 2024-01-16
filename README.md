@@ -25,17 +25,6 @@ Check Out The Deployment Of this Project here :
 
 (https://share.streamlit.io/pragyabisherwal/movie-recommendation-engine/app.py)
  
- 
-## Video Demo And Working
-
-https://youtu.be/DiNjSPCjkMU
-
-
-## Presentation
-
-This is the slide show for the project I created on    `MOVIE RECOMMENDATION ENGINE`
-
-[MOVIE RECOMMENDER ENGINE](https://docs.google.com/presentation/d/1KZ6l11XIWTRBpprWMyE8EQJCR69rULPHct6bUo-7B7M/edit?usp=sharing)
 
 
 ## Features
@@ -149,53 +138,3 @@ Content-based filtering uses item features to recommend other items similar to w
 Content-based Filtering is a Machine Learning technique that uses similarities in features to make decisions. This technique is often used in recommender systems, which are algorithms designed to advertise or recommend things to users based on knowledge accumulated about the user.
 
 ![4](https://user-images.githubusercontent.com/90054472/170394999-8bc9d111-3149-4f75-954f-467282ad8621.png)
-
-## License
-
-[MIT](https://github.com/pragyabisherwal/movie-recommendation-engine/blob/master/LICENSE)
-
-[GNU General Public License v3.0](https://github.com/pragyabisherwal/movie-recommendation-engine/blob/master/LICENSE)
-## Contributing
-
-Contributions are always welcome!
-
-See `contributing.md` for ways to get started.
-
-For Discussion Just Head Over to
-
-`Pragya Bisherwal`(https://www.linkedin.com/in/pragya-bisherwal/)
-
-Please adhere to this project's `code of conduct`.
-
-
-## Support
-
-For support, email pragyabisherwal@gmail.com 
-or 
-
-Connect with me here [Pragya Bisherwal](https://www.linkedin.com/in/pragya-bisherwal/.)
-
-
-## 🚀 About Me
-- 👋 Hi, I’m @pragyabisherwal
-- 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning Django
-- 💞️ I’m building my problem solving abilities.
-- 📫 Want To Contact : pragyabisherwal@gmail.com
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pragyabisherwal.netlify.app/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pragya-bisherwal/)
-
-
-
-## Feedback
-
-If you have any feedback, please reach out to me at pragyabisherwal@gmail.com
-
-
-## Author
-
-- [@PragyaBisherwal](https://github.com/pragyabisherwal/)
-
